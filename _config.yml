@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title:            HMFAYSAL V2
 tagline:          Life without Pants!
 description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
@@ -71,3 +72,6 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+=======
+theme: jekyll-theme-merlot
+>>>>>>> 1434b1e9a69f4417762d1c3aef336465080d778d
